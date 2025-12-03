@@ -115,6 +115,8 @@ Urban NLOS behavior reflected via log-normal fading.
 
 ## 🧠 6. Task Priority Score (GTrXL Compatible)
 
+task_priority_score ∈ [0.1, 1.0]
+
 
 Used for:
 
@@ -184,7 +186,10 @@ To improve RL robustness:
 - Deadline irregularities (50 ms or 10 s)
 
 ### ✅ 4. Full Reproducibility
+Full Python pipeline provided; identical output using fixed seeds:
 
+numpy.seed(42)
+random.seed(42)
 
 
 ---
@@ -233,6 +238,10 @@ df = pd.read_csv("GLEMETA_clustered_iot_dataset.csv")
 print(df.head())
 
 
-Each task receives:
+📁 AEC-IoT-TaskNet/
+│── GLEMETA_clustered_iot_dataset.csv     # Final dataset
+│── generate_dataset.py                   # Full reproducible generator
+│── README.md                             # Project documentation
+
 
 
