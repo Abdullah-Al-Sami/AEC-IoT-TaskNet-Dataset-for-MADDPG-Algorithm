@@ -1,4 +1,4 @@
-# 📡 AEC-IoT TaskNet: Synthetic Task Offloading Dataset for Multi-UAV AEC Systems
+# 📡 AEC-IoT TaskNet: Synthetic Task Offloading Dataset for AEC Environment
 
 **AEC-IoT TaskNet (GLEMETA-5000)** is designed to serve as a comprehensive benchmark dataset for researchers working on **IoT–UAV collaborative computing**, **mobile edge intelligence**, and **multi-agent decision-making systems**. Unlike generic synthetic datasets, AEC-IoT TaskNet integrates **real-world city topology**, **urban wireless communication models**, **IoT hardware constraints**, and **environmental dynamics**, providing a unified testing ground for next-generation AEC (Aerial Edge Computing) research.
 
@@ -234,4 +234,5 @@ print(df.head())
 
 
 Each task receives:
+
 
