@@ -152,7 +152,7 @@ Used for:
 - Aerial edge computing simulators  
 - Mobility-aware wireless performance modeling  
 
-## 🌦 7. Environmental Factors
+## 🌦 8. Environmental Factors
 
 Includes realistic UAV-related environment variables:
 
@@ -166,7 +166,7 @@ Includes realistic UAV-related environment variables:
 
 ---
 
-## 🧪 8. Validation Procedures
+## 🧪 9. Validation Procedures
 
 ### ✅ 1. Statistical Validation
 - Task size matches IoT workload distributions  
@@ -194,7 +194,7 @@ random.seed(42)
 
 ---
 
-## 🎯 Use Cases
+## 10 🎯 Use Cases
 
 - **Edge Computing & Task Offloading**  
 - **Reinforcement Learning (MADDPG/PPO/DDPG)**  
@@ -242,6 +242,7 @@ print(df.head())
 │── GLEMETA_clustered_iot_dataset.csv     # Final dataset
 │── generate_dataset.py                   # Full reproducible generator
 │── README.md                             # Project documentation
+
 
 
 
