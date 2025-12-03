@@ -126,7 +126,7 @@ Used for:
 
 ---
 
-## 📘 Intended For: AEC-IoT TaskNet is meant for researchers working on:
+## 🗺 7. Intended For: AEC-IoT TaskNet is meant for researchers working on 📘 :
 
 ### 🟦 Edge Computing
 - MEC server assignment  
@@ -242,6 +242,7 @@ print(df.head())
 │── GLEMETA_clustered_iot_dataset.csv     # Final dataset
 │── generate_dataset.py                   # Full reproducible generator
 │── README.md                             # Project documentation
+
 
 
 
