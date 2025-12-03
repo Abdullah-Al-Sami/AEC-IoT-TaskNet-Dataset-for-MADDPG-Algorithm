@@ -238,17 +238,15 @@ import pandas as pd
 
 df = pd.read_csv("GLEMETA_clustered_iot_dataset.csv")
 print(df.head())
+```
 
+---
+
+## 📁 File Structure
 
 📁 AEC-IoT-TaskNet/
 │── GLEMETA_clustered_iot_dataset.csv     # Final dataset
 │── generate_dataset.py                   # Full reproducible generator
 │── README.md                             # Project documentation
 
-
-
-
-
-
-
-
+---
