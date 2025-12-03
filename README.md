@@ -10,16 +10,6 @@ It is designed for research in:
 - Multi-agent RL (MADDPG, PPO, DDPG)  
 - Latency–energy–throughput optimization  
 
-This dataset directly addresses reviewer requirements:
-
-✔ Full dataset name  
-✔ Complete generation process  
-✔ Sampling logic for devices, tasks, channels  
-✔ Spatial + statistical + anomaly validation  
-✔ Real-world consistency justification  
-✔ Random seeds disclosed  
-✔ Fully reproducible Python pipeline  
-
 ---
 
 ## 📦 Dataset Summary
@@ -242,6 +232,7 @@ print(df.head())
 │── GLEMETA_clustered_iot_dataset.csv     # Final dataset
 │── generate_dataset.py                   # Full reproducible generator
 │── README.md                             # Project documentation
+
 
 
 
