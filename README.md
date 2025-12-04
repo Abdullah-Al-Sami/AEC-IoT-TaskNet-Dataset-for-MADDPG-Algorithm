@@ -70,9 +70,9 @@ Each IoT device generates **7–10 tasks**, resulting in **5000 total tasks**.
 
 | Task Type | Size Range (MB) |
 |----------|------------------|
-| Sensor Data | 1–100 MB |
-| Video Streams | 300–2000 MB |
-| ML/AI Workloads | 100–1000 MB |
+| Sensor Data | 10–200 MB |
+| Video Streams | 1000–5000 MB |
+| ML/AI Workloads | 200–1500 MB |
 
 Sampling is based on LTE/5G IoT workload studies.
 
@@ -250,3 +250,4 @@ print(df.head())
 │── README.md                             # Project documentation
 
 ---
+
