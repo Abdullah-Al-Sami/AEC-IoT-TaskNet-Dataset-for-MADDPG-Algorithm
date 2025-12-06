@@ -98,7 +98,7 @@ Includes a realistic uplink communication model:
 - **Distance:** Haversine formula  
 - **Path loss:** Log-distance, n = 3.5  
 - **Channel gain:** path loss + Gaussian fading  
-- **Bandwidth:** 1–10 MHz (LTE/5G)  
+- **Bandwidth:** 5–20 MHz (LTE/5G)  
 - **SNR:** derived from gain  
 - **Uplink Rate:** Shannon capacity formula  
 
@@ -250,4 +250,5 @@ print(df.head())
 │── README.md                             # Project documentation
 
 ---
+
 
