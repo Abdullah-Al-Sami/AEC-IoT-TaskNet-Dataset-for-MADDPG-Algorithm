@@ -66,13 +66,7 @@ IoT device locations are generated using **10 real Dhaka regions**, modeled as G
 
 Each IoT device generates **7–10 tasks**, resulting in **5000 total tasks**.
 
-### Task Type Distribution
 
-| Task Type | Size Range (MB) |
-|----------|------------------|
-| Sensor Data | 10–100 MB |
-| Video Streams | 100–2000 MB |
-| ML/AI Workloads | 200–1000 MB |
 
 Sampling is based on LTE/5G IoT workload studies.
 
@@ -250,6 +244,7 @@ print(df.head())
 │── README.md                             # Project documentation
 
 ---
+
 
 
 
