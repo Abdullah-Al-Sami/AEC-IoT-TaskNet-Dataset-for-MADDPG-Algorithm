@@ -1,0 +1,11 @@
+uav_id,mec_uav_lat,mec_uav_lon,mec_uav_area_name,mec_uav_cpu_GHz,mec_uav_obstacle_distance_m,mec_uav_remaining_energy_mAh,mec_uav_weather_condition,mec_uav_temperature_c,mec_uav_humidity_pct,mec_uav_wind_speed_mps,mec_uav_visibility_km,mec_uav_precipitation_mmh,bandwidth_MHz,uplink_rate_Mbps,downlink_rate_Mbps,aec_storage_GB,aec_ram_GB
+U1,23.746,90.4345,Jatrabari,3.4,116.2,109565,Thunderstorm,27.6,95.5,15.05,2.3,19.7,5.31,14.61,26.89,498,27
+U2,23.7465,90.3716,Dhanmondi,2.64,42.3,80450,Thunderstorm,26.5,79.2,9.02,1.7,30.7,10.5,16.38,28.6,268,25
+U3,23.78,90.4167,Gulshan,3.65,174.5,116587,Thunderstorm,26.4,85.8,13.52,1.0,33.2,9.57,11.14,20.38,107,23
+U4,23.725,90.385,Azimpur,1.74,103.2,98269,Thunderstorm,28.1,79.3,12.45,1.0,42.3,7.77,10.84,25.1,498,25
+U5,23.875,90.3833,Uttara,1.78,82.2,78994,Thunderstorm,31.6,97.6,13.58,3.1,17.7,17.43,17.36,30.82,223,11
+U6,23.805,90.3583,Mirpur,0.82,150.5,109480,Thunderstorm,28.8,80.3,15.82,1.1,44.6,15.94,13.29,18.38,409,6
+U7,23.7333,90.4167,Motijheel,1.78,136.7,104629,Thunderstorm,27.5,78.7,16.49,2.5,24.9,18.31,12.83,28.98,275,7
+U8,23.76,90.3667,Lalmatia,0.88,37.3,62200,Thunderstorm,30.0,93.6,13.17,2.7,29.8,14.55,18.1,32.07,204,18
+U9,23.79,90.4067,Banani,1.28,168.8,116568,Thunderstorm,31.4,84.5,11.51,2.8,21.9,14.5,15.43,34.12,454,26
+U10,23.7633,90.3583,Mohammadpur,1.48,88.3,117261,Thunderstorm,26.3,93.3,12.93,2.8,41.9,17.91,14.09,23.95,67,18
