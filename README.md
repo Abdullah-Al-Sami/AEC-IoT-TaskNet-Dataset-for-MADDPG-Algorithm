@@ -217,7 +217,6 @@ random.seed(42)
 | uplink_data_rate_Mbps | Shannon rate |
 | Battery_Level_% | Battery health |
 | task_priority_score | Priority score |
-| offload_ratio | Offloaded task fraction |
 | energy_deadline_mJ | Energy needed |
 | mec_uav_cpu_GHz | UAV CPU |
 | mec_uav_remaining_energy | UAV battery |
@@ -244,6 +243,7 @@ print(df.head())
 │── README.md                             # Project documentation
 
 ---
+
 
 
 
